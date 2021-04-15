@@ -23,5 +23,10 @@
         "dbaeumer.vscode-eslint",
         "mtxr.sqltools",
         "mtxr.sqltools-driver-pg"
-    ]
+	],
+	"portsAttributes": {
+		"3000": {
+			"label": "Frontend"
+		}
+	}
 }
